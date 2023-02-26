@@ -1,0 +1,10 @@
+name: SimpleAnvil-v1.0
+version: '1.0'
+main: simpleanvil.plugins.flyyp.Main
+api-version: 1.19
+authors: [ FLYYP ]
+description: Simple plugin upgrades anvil for BOXPVP and SKYGEN servers.
+commands:
+  damageitem:
+    permission: simpleanvil.command.damageitem
+    permission-message: Nie masz permisji [simpleanvil.permission.damageitem]

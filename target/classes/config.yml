@@ -1,0 +1,9 @@
+howManyUsageRepairShouldAdd: 300
+itemRepairCost: 2
+tooLowLevel: "Masz zbyt niski poziom aby naprawić ten przedmiot"
+itemRepaired: "Przedmiot został naprawiony"
+handIsEmpty: "Musisz mieć coś w ręce"
+itemCantBeReapired: 'Ten przedmiot nie może zostać naprawiony'
+ConsoleMessages:
+  PluginHasEnabled: "Plugin MagicAnvil został włączony"
+  PluginHasDisabled: "Plugin MagicAnvil został wyłączony"
